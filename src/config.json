@@ -47,7 +47,7 @@
         "loader": null,
         "platform": "AMD",
         "adl": true,
-        "cn/0": false,
+        "cn/0": true,
         "cn-lite/0": false
     },
     "cuda": {
